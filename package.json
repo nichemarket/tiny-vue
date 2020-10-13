@@ -1,0 +1,13 @@
+{
+  "name": "tiny-vue",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html --port 2020",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
+}
